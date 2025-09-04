@@ -1,0 +1,17 @@
+h4{
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    text-align: center;
+    position: relative;
+    left:44rem;
+}
+div{
+    height:130px;
+    width:550px;
+    border:2px solid black;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+}
